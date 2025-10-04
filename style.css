@@ -71,7 +71,7 @@ body {
       rgba(33, 24, 20, 0.57) 0%,
       rgba(38, 28, 24, 0.42) 100%
     ),
-    url(../img/bg.png) center / cover;
+    url(./img/bg.png) center / cover;
   background-repeat: no-repeat;
   background-size: cover;
   min-height: 1000px;
